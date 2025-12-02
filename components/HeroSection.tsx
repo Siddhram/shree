@@ -70,7 +70,7 @@ export default function HeroSection() {
               className="flex gap-6 text-lg"
             >
               <span className="font-extrabold text-[#AB2D03]">Automatic DEPOSIT</span>
-              <span className="font-extrabold text-[#AB2D03]">Automatic withdrawal</span>
+              <span className="font-extrabold text-[#AB2D03]">Automatic WITHDRAWAL</span>
             </motion.div>
 
             <motion.div
